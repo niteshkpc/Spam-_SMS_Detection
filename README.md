@@ -161,7 +161,7 @@ Prediction: Ham (Not Spam)
 
 **Nitesh Kumar**
 
-- GitHub: [niteshkumar02](https://github.com/niteshkumar02)
+- GitHub: [niteshkumar02](https://github.com/niteshkpc)
 - LinkedIn: [niteshkumar02](https://linkedin.com/in/niteshkumar02)
 
 ## 📄 License
